@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jest": "^30.0.5",
+    "nodemon": "^3.1.10"
+  },
+  "scripts": {
+  "test": "npx --node-options=--experimental-vm-modules jest"
+  }
+}
